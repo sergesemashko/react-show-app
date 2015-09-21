@@ -1,0 +1,53 @@
+{
+  "name": "react-app-boilerplate",
+  "version": "2.1.1",
+  "description": "React application boilerplate",
+  "author": {
+    "name": "Christian Alfoni"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^10.2.4",
+    "glob": "^4.0.6",
+    "gulp": "^3.8.7",
+    "gulp-concat": "^2.3.4",
+    "gulp-cssmin": "^0.1.6",
+    "gulp-if": "^1.2.4",
+    "gulp-jasmine2-phantomjs": "^0.1.1",
+    "gulp-livereload": "^2.1.1",
+    "gulp-notify": "^1.4.2",
+    "gulp-shell": "^0.2.10",
+    "gulp-streamify": "0.0.5",
+    "gulp-uglify": "^0.3.1",
+    "gulp-util": "^3.0.0",
+    "phantomjs": "^1.9.12",
+    "react": "^0.13.3",
+    "react-addons": "^0.9.0",
+    "react-router": "^0.13.3",
+    "reactify": "^0.15.2",
+    "vinyl-source-stream": "^0.1.1",
+    "watchify": "^2.1.1"
+  },
+  "gitHead": "76b2e768710e1715fc9957afc4ceef2d916dd6ba",
+  "_id": "react-app-boilerplate@2.1.1",
+  "scripts": {},
+  "_shasum": "3fbf2f75b4caa6ecfbff454ebffc04b29a836b5d",
+  "_from": "react-app-boilerplate@*",
+  "_npmVersion": "1.4.23",
+  "_npmUser": {
+    "name": "christianalfoni",
+    "email": "christianalfoni@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "christianalfoni",
+      "email": "christianalfoni@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "3fbf2f75b4caa6ecfbff454ebffc04b29a836b5d",
+    "tarball": "http://registry.npmjs.org/react-app-boilerplate/-/react-app-boilerplate-2.1.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/react-app-boilerplate/-/react-app-boilerplate-2.1.1.tgz"
+}
